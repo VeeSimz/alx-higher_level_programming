@@ -3,8 +3,8 @@
 
 
 class BaseGeometry:
-        """ Base geometry class """
+    """ Represent base geometry class """
 
-        def area(self):
-            """Not yet in play"""
+    def area(self):
+        """Not yet implemented"""
         raise Exception("area() is not implemented")
