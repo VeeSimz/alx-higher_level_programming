@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Defines a function that searches an object and instance of the object in a class """
+""" Define program that search an object and instance of object in a class """
 
 
 def is_kind_of_class(obj, a_class):
