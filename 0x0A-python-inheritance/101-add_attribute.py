@@ -4,12 +4,10 @@
 
 def add_attribute(obj, att, value):
     """Adds new attributes to the object
-    
     Args:
         obj(any): The object to add an attribute to
         att(str): The name of attribute to add to obj
         value(any): The value of attribute
-    
     Raises:
         TypeError: If the attribute can be added"""
 
