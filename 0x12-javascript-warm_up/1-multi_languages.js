@@ -1,5 +1,5 @@
 #!/usr/bin/node
 
-const phrases = ['C is fun', 'Python is cool', 'Javascript is amazing'];
-for (const phrase of phrases) 
-console.log(phrase);
+console.log('C is fun');
+console.log('Python is cool');
+console.log('Javascript is amazing');
